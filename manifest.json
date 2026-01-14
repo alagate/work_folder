@@ -1,0 +1,9 @@
+{
+    "name": "HiveinInventory",
+    "version_number": "1.4.0",
+    "website_url":,
+    "description": "Save space when carrying honeycombs to the campfire. Put an entire beehive in your inventory!",
+    "dependencies": [
+	
+    ]
+}
